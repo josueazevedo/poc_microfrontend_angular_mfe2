@@ -1,27 +1,27 @@
-# MfeFlowTwo
+# Microfrontends com Angular - POC
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.10.
+## Descrição
 
-## Development server
+Este é um projeto de prova de conceito (POC) para demonstrar a arquitetura de microfrontends usando Angular. O objetivo é mostrar como diferentes partes de uma aplicação web podem ser desenvolvidas, versionadas e implantadas independentemente, e como elas podem ser compostas para formar uma única aplicação coesa.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Estrutura do Projeto
 
-## Code scaffolding
+O projeto é dividido em várias partes:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+1. **Base**: A aplicação principal que integra os microfrontends.
+2. **Microfrontend One**: Um microfrontend que representa uma parte específica da funcionalidade da aplicação.
+3. **Microfrontend Two**: Outro microfrontend que representa outra parte da funcionalidade da aplicação.
 
-## Build
+## Executando o Projeto
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Acesse o repositório principal e siga as orientações disponibilizadas.
 
-## Running unit tests
+Link: [https://github.com/poc_microfrontend_angular_base](https://github.com/poc_microfrontend_angular_base).
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Contribuição
 
-## Running end-to-end tests
+Contribuições são bem-vindas!
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Projeto em construção
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Melhorias e novas funcionalidades estão em desenvolvimento.
