@@ -16,7 +16,7 @@ O projeto é dividido em várias partes:
 
 Acesse o repositório principal e siga as orientações disponibilizadas.
 
-Link: [https://github.com/poc_microfrontend_angular_base](https://github.com/poc_microfrontend_angular_base).
+Link: [https://github.com/josueazevedo/poc_microfrontend_angular_base](https://github.com/josueazevedo/poc_microfrontend_angular_base).
 
 ## Contribuição
 
